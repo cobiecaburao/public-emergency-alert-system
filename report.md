@@ -105,13 +105,17 @@ Nuclear Plant PAS need to be secure and reliable for the public to trust and pro
 ### Constraints
 <ul>
   <li>
-    <strong>Regulatory Compliance (Security and Access): Only authorized personnel can trigger live alerts, and the system must follow nuclear safety regulations. </strong>
+    <strong>Regulatory Compliance (Security and Access):</strong> Only authorized personnel can trigger live alerts, and the system must follow nuclear safety regulations.
   </li>
   <li>
-    <strong>Reliability:PAS must operate continuously and accurately, even during network or power failures.       </strong>
+    <strong>Reliability:</strong> PAS must operate continuously and accurately, even during network or power failures.
   </li>
-  <li>**Economic Factors:** The system must balance security and functionality with cost-effectiveness.</li>
-  <li>**Societal Impacts:** Alerts must avoid unnecessary panic and maintain public confidence in emergency communications.</li>
+  <li>
+    <strong>Economic Factors:</strong> The system must balance security and functionality with cost-effectiveness.
+  </li>
+  <li>
+    <strong>Societal Impacts:</strong> Alerts must avoid unnecessary panic and maintain public confidence in emergency communications.
+  </li>
 </ul>
 <!-- - Provide constraints here. Remember that the constraints are binary (either satisfied or not). -->
 
